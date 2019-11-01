@@ -6,6 +6,10 @@
   height: 40vmin;
 }
 
+body {
+  background-color: gainsboro
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -19,4 +23,19 @@
 
 .App-link {
   color: #09d3ac;
+}
+
+#form-container {
+  background-color: white;
+  margin: 2.5vw;
+  padding: 2vw;
+  text-align: center;
+}
+
+#form-grid {
+  margin-top: 2vh;
+}
+
+#form {
+  margin: auto;
 }
